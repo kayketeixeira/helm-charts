@@ -1,0 +1,3 @@
+[submodule "oracle-exporter-chart"]
+	path = charts/chart
+	url = https://github.com/kayketeixeira/helm-charts/
